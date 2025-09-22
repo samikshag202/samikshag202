@@ -19,7 +19,12 @@
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![DBMS](https://img.shields.io/badge/-DBMS-333333?style=flat&logo=databricks)
+  ![Operating System](https://img.shields.io/badge/-Operating%20System-333333?style=flat&logo=windows)
+  ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
+  ![UNIX](https://img.shields.io/badge/-UNIX-333333?style=flat&logo=linux)
 
-
- 
  
